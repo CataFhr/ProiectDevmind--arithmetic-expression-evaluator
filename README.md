@@ -1,6 +1,6 @@
-Aplicatii cu stive si cozi
+1. Evaluator de expresii matematice (Aplicatii cu stive si cozi)
 
-1. Evaluatorul de expresii
+Acest proiect implementeaza un evaluator de expresii matematice care accepta cinci operatii matematice (+, -, *, /, ^) si tine cont de ordinea de evaluare corecta a acestora.
 
    Algoritmul de evaluare va contine 2 etape:
       -Conversia expresiei in forma postfixata
